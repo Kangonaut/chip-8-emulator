@@ -1,5 +1,7 @@
 # CHIP-8 emulator
 
+> I moved this repository over to my new GitHub account. You can find the old repo [here](https://github.com/JakobGalaxy/chip-8-emulator).
+
 This is a small learning project to get familiar with emulator development, the [Rust](https://www.rust-lang.org/)
 programming language and the [SDL2](https://www.libsdl.org/index.php) library.
 
